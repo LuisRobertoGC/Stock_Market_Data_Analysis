@@ -9,3 +9,14 @@ This study aims to use the four most popular algorithms i.e. Moving Average, Hol
 The obtained results revealed that all the models have a strong potential with short-term and the LSTM dependencies for long-term prediction of stock prices based on the pricing history with 5.93 root mean square error.
 
 Report is available on request.
+## Moving Average
+![](Screenshots/Screenshot%20(70).png)
+
+## Heat Map of S&P 500 Index 
+![](Screenshots/zoomin.JPG)
+
+## Holt - Winter Forecasting
+![](Screenshots/hw315.JPG)
+
+## LSTM 
+![](Screenshots/lstmp.JPG)
