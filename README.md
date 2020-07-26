@@ -10,7 +10,7 @@ The obtained results revealed that all the models have a strong potential with s
 
 ## Tools
 
-Programming: Python 3.6
+Programming: Python 3.6<br />
 Libraries: Beautifulsoup, Pickle, Numpy, Pandas, Datetime, Matplotlib, Plotly, Sklearn, Keras, Tensorflow, Statsmodels, Pyramid-arima 
 Features: Visualisation of 500 companies using HeatMap and Piechart
 Models: ARIMA Data Analysis, ARIMA Forecasting, LSTM, MLP, Moving Average, Holt-Winter
